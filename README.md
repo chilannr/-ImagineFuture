@@ -1,12 +1,12 @@
 # ImagineFuture
 ## 简介
-
+校园恋爱Galgame《构想彼方》
 高三那年，与「她」共度的备考时光。
 纪望数着日子度过的高三生活，在某一天骤然迎来终结。
 
 
 < Project:Arkane >
-企划主催╱平面设计╱剧本╱视频制作 [@枫桐子夜](https://space.bilibili.com/33804834/ "枫桐子夜")
+企划主催╱平面设计╱剧本╱视频制作 @枫桐子夜
 
 [Bilibili:@构想庭院观测站](https://space.bilibili.com/386003428/ "@构想庭院观测站")
 
