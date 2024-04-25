@@ -14,5 +14,5 @@
 
 
 ## 项目演示
-试玩链接：https://github.com/chilannr/ImagineFuture/releases/download/Ver1.0/IM-Demo.zip
+试玩链接：https://github.com/chilannr/-ImagineFuture/releases/download/Ver1.0/IM-Demo.zip
 
