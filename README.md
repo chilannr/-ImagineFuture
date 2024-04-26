@@ -14,5 +14,7 @@
 
 
 ## 项目演示
+![image_0](Images/image_0.mp4)
+![image_1](Images/image_1.png)
 试玩链接：https://github.com/chilannr/-ImagineFuture/releases/download/Ver1.0/IM-Demo.zip
 
