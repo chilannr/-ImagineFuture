@@ -12,9 +12,8 @@
 
 [TapTap:@构想庭院观测站](https://m.taptap.cn/app/%E6%9E%84%E6%83%B3%E5%BD%BC%E6%96%B9-241670?share_id=17f23c60a9c2&utm_medium=share&utm_source=copylink/ "@构想庭院观测站")
 
-
 ## 项目演示
-![image_0](Images/image_0.mp4)
+[![封面](Images/image_1.png)](Images/image_0.mp4)
 ![image_1](Images/image_1.png)
 试玩链接：https://github.com/chilannr/-ImagineFuture/releases/download/Ver1.0/IM-Demo.zip
 
